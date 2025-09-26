@@ -257,6 +257,6 @@ npm run preview
 - [Tailwind CSS](https://tailwindcss.com/) for utility-first styling
 - [Lucide React](https://lucide.dev/) for the icon system
 
----
+## 🌐 Live Demo
 
-Built with ❤️ using modern React and TypeScript
+Check out the live application at: https://booky-hendy.vercel.app/
